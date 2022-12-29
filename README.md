@@ -35,10 +35,10 @@ To install the theme, you can either:
 
 ## Installation
 
-Once you have installed [ckau-book](https://github.com/CkauNui/ckau-book) theme, you can then install the addon, either:
+Once you have installed [ckau-book](https://github.com/CkauNui/ckau-book) theme, you can then install the addon, either by:
 
-- Cloning the Github repository into your ES themes directory:<br/>, or
-`git clone https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images.git`
+- Cloning the Github repository into your ES themes directory:<br/>
+`git clone https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images.git`, or
 - Downloading the latest [Github code](https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images/archive/refs/heads/master.zip) and unzip it into your ES themes directory.
 
 Once installed, when loaded, *ckau-book* theme will automatically show the default platform videos when in Colorful or Darkful mode.
