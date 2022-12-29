@@ -21,7 +21,7 @@ Video will show up in systemview even if there are no videos referred in gamelis
 
 ## Showcase
 
-https://www.youtube.com/watch?v=fjWfRFfTnvA#t=0m22s
+[![](https://markdown-videos.deta.dev/youtube/fjWfRFfTnvA)](https://www.youtube.com/watch?v=fjWfRFfTnvA#t=0m22s)
 
 ## Pre-requisites
 
