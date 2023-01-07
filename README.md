@@ -38,10 +38,10 @@ To install the theme, you can either:
 Once you have installed [ckau-book](https://github.com/CkauNui/ckau-book) theme, you can then install the addon, either by:
 
 - Cloning the Github repository into your ES themes directory:<br/>
-`git clone https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images.git`, or
-- Downloading the latest [Github code](https://github.com/CkauNui/ckau-book-addons-Colorful-4K-Images/archive/refs/heads/master.zip) and unzip it into your ES themes directory.
+`git clone https://github.com/CkauNui/ckau-book-addons-Colorful-Video.git`, or
+- Downloading the latest [Github code](https://github.com/CkauNui/ckau-book-addons-Colorful-Video/archive/refs/heads/master.zip) and unzip it into your ES themes directory.
 
-Once installed, when loaded, *ckau-book* theme will automatically show the default platform videos when in Colorful or Darkful mode.
+Once installed, when loaded, *ckau-book* theme will automatically show the default videos when in Colorful or Darkful mode.
 
 ### Addons directory path
 
@@ -57,7 +57,7 @@ Tthe addons directory must be in this position to ensure that addons will not be
 
 ### Uninstall the addon
 
-If you'd like to uninstall this 4K addon and revert to default Full HD images, delete the `/themes/ckau-book-addons/_inc/anim/4K` directory.
+If you'd like to uninstall this addon and revert to default Full HD images, delete the `/themes/ckau-book-addons/_inc/anim/video` directory.
 
 ## Other addons available
 
@@ -66,6 +66,7 @@ Check out also:
 - [COLORFUL 4K Images pack](https://github.com/CkauNui/ckau-book-addons-Colorful-Video): high-detailed, beautiful 3840x2160 system images for both Colorful and Darkful views
 - [CONSOLES Arts pack](https://github.com/CkauNui/ckau-book-addons-Consoles): full-screen consoles/computers photos, as alternative to Colorful/Darkful system views
 - [WALLPAPERS Arts pack](https://github.com/CkauNui/ckau-book-addons-Wallpapers): full-screen artworks inspired by consoles/computers games, as alternative to Colorful/Darkful system views
+- [CINEMATIC Video pack](https://github.com/CkauNui/ckau-book-addons-Cinematic-Video): full-screen platform inspired videos, as alternative to Colorful/Darkful system views
 
 ## Credits
 
