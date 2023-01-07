@@ -57,7 +57,7 @@ Tthe addons directory must be in this position to ensure that addons will not be
 
 ### Uninstall the addon
 
-If you'd like to uninstall this 4K addon and revert to default Full HD images, delete the `/themes/ckau-book-addons/_inc/anim/4K` directory.
+If you'd like to uninstall this addon and revert to default Full HD images, delete the `/themes/ckau-book-addons/_inc/anim/video` directory.
 
 ## Other addons available
 
