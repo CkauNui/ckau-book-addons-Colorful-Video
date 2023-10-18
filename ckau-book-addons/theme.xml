@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<image name="warn1" extra="true">
+		<origin>0.5 0.5</origin>
+			<pos>0.5 0.5</pos>
+			<minSize>1 1</minSize>
+			<path>./Warning.png</path>
+		</image>
+
+		<text name="systemInfo" extra="static">
+			<color>00000000</color>
+		</text>
+		<carousel name="systemcarousel">
+			<color>00000000</color>
+		</carousel>
+		<text name="logoText">
+			<color>00000000</color>
+		</text>
+	</view>
+<!-- Меню / Menu -->
+	<view name="menu">
+		<menuText name="menutitle">
+			<fontPath>./../ckau-book/_inc/fonts/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.035</fontSize>
+			<color>FAFAFA</color>
+		</menuText>
+		<menuText name="menufooter">
+			<fontPath>./../ckau-book/_inc/fonts/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>777777FF</color>
+		</menuText>
+		<menuText name="menutext" extra="true" tinyScreen="false">
+			<fontPath>./../ckau-book/_inc/fonts/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.028</fontSize>
+			<color>969696</color>
+			<!-- <separatorColor>202020</separatorColor> -->
+			<separatorColor>363636FF</separatorColor>
+			<selectorColor>${baseColor}</selectorColor>
+			<selectorColorEnd>${gradientEndColor}</selectorColorEnd>
+			<selectedColor>FFFFFF</selectedColor>
+			<selectorGradientType>horizontal</selectorGradientType>
+		</menuText>
+		<menuTextSmall name="menutextsmall" extra="true" tinyScreen="false">
+			<fontPath>./../ckau-book/_inc/fonts/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>${groupColor}</color>
+		</menuTextSmall>
+		<menuGroup name="menugroup">
+			<fontPath>./../ckau-book/_inc/fonts/ubuntu_condensed.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>${groupColor}</color>
+			<backgroundColor>00000000</backgroundColor>
+			<!-- <separatorColor>${groupSeparatorColor}</separatorColor> -->
+			<lineSpacing>2.3</lineSpacing>
+		</menuGroup>
+		<menuBackground name="menubg">
+			<color>242424</color>
+			<path>./../ckau-book/_inc/images/frame.png</path>
+			<cornerSize>18 18</cornerSize>
+			<scrollbarColor>96969620</scrollbarColor>
+			<scrollbarCorner>0.49</scrollbarCorner>
+			<scrollbarSize>0.003</scrollbarSize>
+			<scrollbarAlignment>innerright</scrollbarAlignment>
+		</menuBackground>
+		<menuIcons name="menuicons">
+			<iconKodi>./../ckau-book/_inc/icons/Kodi.png</iconKodi>
+			<iconSystem>./../ckau-book/_inc/icons/System.png</iconSystem>
+			<iconUpdates>./../ckau-book/_inc/icons/Updates.png</iconUpdates>
+			<iconGames>./../ckau-book/_inc/icons/Games.png</iconGames>
+			<iconControllers>./../ckau-book/_inc/icons/Controllers.png</iconControllers>
+			<iconUI>./../ckau-book/_inc/icons/UI.png</iconUI>
+			<iconSound>./../ckau-book/_inc/icons/Sound.png</iconSound>
+			<iconNetwork>./../ckau-book/_inc/icons/Network.png</iconNetwork>
+			<iconPlanemode>./../ckau-book/_inc/icons/Planemode.png</iconPlanemode>
+			<iconScraper>./../ckau-book/_inc/icons/Scraper.png</iconScraper>
+			<iconAdvanced>./../ckau-book/_inc/icons/Advanced.png</iconAdvanced>
+			<iconQuit>./../ckau-book/_inc/icons/Quit.png</iconQuit>
+			<iconRestart>./../ckau-book/_inc/icons/Restart.png</iconRestart>
+			<iconShutdown>./../ckau-book/_inc/icons/Shutdown.png</iconShutdown>
+			<iconFastShutdown>./../ckau-book/_inc/icons/Fastshutdown.png</iconFastShutdown>
+			<iconRetroachievements>./../ckau-book/_inc/icons/Contest.png</iconRetroachievements>
+			<iconManual>./../ckau-book/_inc/icons/Manual.png</iconManual>
+			<iconEmuelec>./../ckau-book/_inc/icons/Emuelec.png</iconEmuelec>
+		</menuIcons>
+		<menuTextEdit name="menutextedit">
+			<inactive>./../ckau-book/_inc/images/textinput_ninepatch.png</inactive>
+			<active>./../ckau-book/_inc/images/textinput_ninepatch_active.png</active>
+		</menuTextEdit>
+		<menuButton name="menubutton">
+			<path>./../ckau-book/_inc/images/button.png</path>
+			<filledPath>./../ckau-book/_inc/images/button_filled.png</filledPath>
+			<cornerSize>8 8</cornerSize>
+		</menuButton>
+	</view>
+</theme>
